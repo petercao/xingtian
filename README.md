@@ -1,7 +1,7 @@
 # 仓库导航
-1. [低价机场](https://github.com/hjyvip/xingtian/blob/main/README.md)
+1. [超低价机场推荐](https://github.com/hjyvip/xingtian/blob/main/README.md)
 1. [NordVPN共享账号3329个](https://github.com/hjyvip/xingtian/blob/main/NordVPN%E5%85%B1%E4%BA%AB%E8%B4%A6%E5%8F%B73329%E4%B8%AA)
-# 刑天云
+# 超低价机场推荐
 ### 如何购买
 
 **免费试用或购买请前往：[八方云](https://user.bafang.ga/)，无需邮箱验证！！！**
